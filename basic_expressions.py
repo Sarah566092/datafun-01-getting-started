@@ -1,7 +1,7 @@
 """
 Purpose: Illustrate basic expresssions and operators in Python.
 
-Author: Denise Case
+Author: Sarah DeConink
 
 This file name is:   basic_expressions.py
 This module name is: basic_expressions
@@ -30,22 +30,28 @@ logger,logname = setup_logger(__file__)
 # Declare some variables 
 # TODO: Try changing the values of these variables
 # TODO: Add some new variables and calculate the area of a rectangle ()
-triangle_base = 10
-triangle_height = 5
-i = 50
-j = 20
-a = 1.1
-b = 2.2
-c = 3.3
+triangle_base = 7
+triangle_height = 3
+i = 89
+j = 32
+a = 1.9
+b = 2.1
+c = 3.5
 
 # Try some operators (multiply, divide, add, subtract)
 triangle_area = triangle_base * triangle_height / 2
 sum = a + b
+sum2 = c + b
+product = j * a
+quotient = i / c
 difference = i - j
 
 # Log some information using f-strings (formatted strings)
 logger.info(f"Given base={triangle_base} and height={triangle_height}, the triangle area = {triangle_area}")
 logger.info(f"Given a={a} and b={b}, the sum = {sum}")
+logger.info(f"Given c={c} and b={b}, the sum2 = {sum2}")
+logger.info(f"Given j={j} and a={a}, the product = {product}")
+logger.info(f"Given i={i} and c={c}, the quotient = {quotient:.2f}")
 logger.info(f"Given i={i} and j={j}, the difference = {difference}")
 
 

@@ -4,7 +4,7 @@ process the data, and write processed information to a new file.
 
 Illustrates pathlib and the joinpath function for safe cross-platform file path creation.
 
-Author: Denise Case
+Author: Sarah DeConink
 
 This file name is:   dataio.py
 This module name is: dataio

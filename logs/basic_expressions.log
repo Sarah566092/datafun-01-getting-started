@@ -1,15 +1,18 @@
-2023-05-08 21:00:47,773 =============================================================
-2023-05-08 21:00:47,774 =============================================================
-2023-05-08 21:00:47,774 Today is 2023-05-08 at 09:00 PM
-2023-05-08 21:00:47,774 This file is running on: posix Darwin 20.6.0
-2023-05-08 21:00:47,774 The Python version is: 3.10.11
-2023-05-08 21:00:47,774 The active conda environment is:  None
-2023-05-08 21:00:47,774 The active pip environment is:    None
-2023-05-08 21:00:47,774 The active environment path is:   /Library/Frameworks/Python.framework/Versions/3.10
-2023-05-08 21:00:47,774 The current working directory is: /Users/sarah/Documents/datafun-01-getting-started
-2023-05-08 21:00:47,774 This source file is in:           /Users/sarah/Documents/datafun-01-getting-started
-2023-05-08 21:00:47,774 =============================================================
-2023-05-08 21:00:47,774 =============================================================
-2023-05-08 21:00:47,775 Given base=10 and height=5, the triangle area = 25.0
-2023-05-08 21:00:47,775 Given a=1.1 and b=2.2, the sum = 3.3000000000000003
-2023-05-08 21:00:47,775 Given i=50 and j=20, the difference = 30
+2023-05-09 23:36:17,313 =============================================================
+2023-05-09 23:36:17,313 =============================================================
+2023-05-09 23:36:17,313 Today is 2023-05-09 at 11:36 PM
+2023-05-09 23:36:17,313 This file is running on: posix Darwin 20.6.0
+2023-05-09 23:36:17,313 The Python version is: 3.11.3
+2023-05-09 23:36:17,313 The active conda environment is:  None
+2023-05-09 23:36:17,314 The active pip environment is:    None
+2023-05-09 23:36:17,314 The active environment path is:   /Library/Frameworks/Python.framework/Versions/3.11
+2023-05-09 23:36:17,314 The current working directory is: /Users/sarah/Documents/datafun-01-getting-started-1
+2023-05-09 23:36:17,314 This source file is in:           /Users/sarah/Documents/datafun-01-getting-started-1
+2023-05-09 23:36:17,314 =============================================================
+2023-05-09 23:36:17,314 =============================================================
+2023-05-09 23:36:17,314 Given base=7 and height=3, the triangle area = 10.5
+2023-05-09 23:36:17,314 Given a=1.9 and b=2.1, the sum = 4.0
+2023-05-09 23:36:17,314 Given c=3.5 and b=2.1, the sum2 = 5.6
+2023-05-09 23:36:17,314 Given j=32 and a=1.9, the product = 60.8
+2023-05-09 23:36:17,314 Given i=89 and c=3.5, the quotient = 25.43
+2023-05-09 23:36:17,314 Given i=89 and j=32, the difference = 57

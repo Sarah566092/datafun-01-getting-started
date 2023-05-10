@@ -1,7 +1,7 @@
 """
 Purpose: Get acquainted with basic Python concepts.
 
-Author: Denise Case
+Author: Sarah DeConink
 
 This file name is:   acquainted.py
 This module name is: acquainted
@@ -42,15 +42,15 @@ logger,logname = setup_logger(__file__)
 # Try some string, integer, float, and boolean (True/False) variables
 # TODO: Customize these by changing the values 
 
-name = "John Doe"
-state = "California"
+name = "Sarah DeConink"
+state = "Missouri"
 country = "USA"
 
-pet_count = 1
-skill_count = 24
+pet_count = 2
+skill_count = 5
 
-temperature_f = 81.5
-pet_weight_lbs = 12.5
+temperature_f = 78
+pet_weight_lbs = 8.5
 
 has_dog = False
 likes_analytics = True
@@ -61,7 +61,7 @@ likes_python = True
 # note that the f is placed BEFORE the opening quote
 # and variables (or expressions) are placed inside curly braces
 
-logger.info(f"Name: {name} ")
+logger.info(f"Name: {name}")
 logger.info(f"State: {state}")
 logger.info(f"Country: {country}")
 

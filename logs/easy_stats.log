@@ -1,41 +1,40 @@
-2023-05-08 21:03:28,095 =============================================================
-2023-05-08 21:03:28,096 =============================================================
-2023-05-08 21:03:28,096 Today is 2023-05-08 at 09:03 PM
-2023-05-08 21:03:28,096 This file is running on: posix Darwin 20.6.0
-2023-05-08 21:03:28,096 The Python version is: 3.10.11
-2023-05-08 21:03:28,096 The active conda environment is:  None
-2023-05-08 21:03:28,096 The active pip environment is:    None
-2023-05-08 21:03:28,096 The active environment path is:   /Library/Frameworks/Python.framework/Versions/3.10
-2023-05-08 21:03:28,096 The current working directory is: /Users/sarah/Documents/datafun-01-getting-started
-2023-05-08 21:03:28,096 This source file is in:           /Users/sarah/Documents/datafun-01-getting-started
-2023-05-08 21:03:28,096 =============================================================
-2023-05-08 21:03:28,096 =============================================================
-2023-05-08 21:03:28,097 uni_data = [105, 129, 87, 86, 111, 111, 89, 81, 108, 92, 110, 100, 75, 105, 103, 109, 76, 119, 99, 91, 103, 129, 106, 101, 84, 111, 74, 87, 86, 103, 103, 106, 86, 111, 75, 87, 102, 121, 111, 88, 89, 101, 106, 95, 103, 107, 101, 81, 109, 104]
-2023-05-08 21:03:28,144 mean   = 99.12
-2023-05-08 21:03:28,144 median = 102.50
-2023-05-08 21:03:28,144 mode   = 111.00
-2023-05-08 21:03:28,144 var    = 179.25061224489795
-2023-05-08 21:03:28,144 stdev  = 13.388450703681062
-2023-05-08 21:03:28,144 lowest = 74
-2023-05-08 21:03:28,144 highest= 129
-2023-05-08 21:03:28,145 Correlation requires Python version 3.10 or greater.
-2023-05-08 21:03:28,145 Your version is 3.10
-2023-05-08 21:03:28,145 Here's some time series data:
-2023-05-08 21:03:28,145 xtimes:[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
-2023-05-08 21:03:28,145 yvalues:[2, 5, 8, 20, 21, 23, 24, 27, 30, 31, 31, 32]
-2023-05-08 21:03:28,145 correlation between xtimes and xtimes = 1.00
-2023-05-08 21:03:28,145 correlation between xtimes and yvalues = 0.94
-2023-05-08 21:03:28,145 Here's some bivariant data (2 variables, together):
-2023-05-08 21:03:28,145 x:[-200, -150, -100, 50, 0, 50, 100, 150]
-2023-05-08 21:03:28,145 y:[-240, -165, -99, 35, 19, 75, 130, 125]
-2023-05-08 21:03:28,146 Calculate the slope and intercept of a best fit straight line:
-2023-05-08 21:03:28,146    slope = 1.09
-2023-05-08 21:03:28,146    intercept = -1.39
-2023-05-08 21:03:28,146 Let's use our best fit line to PREDICT a future value.
-2023-05-08 21:03:28,146    At future x = 200,
-2023-05-08 21:03:28,146    we predict the value of y will be 216.
-2023-05-08 21:03:28,146 How'd we do? Does this make sense given the data?
-2023-05-08 21:03:28,146 Remember to close the app. Control c (or d or z maybe) to close it.
-2023-05-08 21:03:28,146 ready_for_chart = False
-2023-05-08 21:03:28,146 Ready for a chart? Edit this program to see an illustration.
-
+2023-05-09 22:47:20,323 =============================================================
+2023-05-09 22:47:20,323 =============================================================
+2023-05-09 22:47:20,324 Today is 2023-05-09 at 10:47 PM
+2023-05-09 22:47:20,324 This file is running on: posix Darwin 20.6.0
+2023-05-09 22:47:20,324 The Python version is: 3.11.3
+2023-05-09 22:47:20,324 The active conda environment is:  None
+2023-05-09 22:47:20,324 The active pip environment is:    None
+2023-05-09 22:47:20,325 The active environment path is:   /Library/Frameworks/Python.framework/Versions/3.11
+2023-05-09 22:47:20,325 The current working directory is: /Users/sarah/Documents/datafun-01-getting-started-1
+2023-05-09 22:47:20,325 This source file is in:           /Users/sarah/Documents/datafun-01-getting-started-1
+2023-05-09 22:47:20,325 =============================================================
+2023-05-09 22:47:20,325 =============================================================
+2023-05-09 22:47:20,325 uni_data = [105, 129, 87, 86, 111, 111, 89, 81, 108, 92, 110, 100, 75, 105, 103, 109, 76, 119, 99, 91, 103, 129, 106, 101, 84, 111, 74, 87, 86, 103, 103, 106, 86, 111, 75, 87, 102, 121, 111, 88, 89, 101, 106, 95, 103, 107, 101, 81, 109, 104]
+2023-05-09 22:47:20,329 mean   = 99.12
+2023-05-09 22:47:20,330 median = 102.50
+2023-05-09 22:47:20,330 mode   = 111.00
+2023-05-09 22:47:20,330 var    = 179.25
+2023-05-09 22:47:20,330 stdev  = 13.39
+2023-05-09 22:47:20,330 lowest = 74
+2023-05-09 22:47:20,331 highest= 129
+2023-05-09 22:47:20,331 Correlation requires Python version 3.10 or greater.
+2023-05-09 22:47:20,331 Your version is 3.11
+2023-05-09 22:47:20,332 Here's some time series data:
+2023-05-09 22:47:20,332 xtimes:[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+2023-05-09 22:47:20,332 yvalues:[2, 5, 8, 20, 21, 23, 24, 27, 30, 31, 31, 32]
+2023-05-09 22:47:20,332 correlation between xtimes and xtimes = 1.00
+2023-05-09 22:47:20,332 correlation between xtimes and yvalues = 0.94
+2023-05-09 22:47:20,332 Here's some bivariant data (2 variables, together):
+2023-05-09 22:47:20,332 x:[-200, -150, -100, 50, 0, 50, 100, 150]
+2023-05-09 22:47:20,332 y:[-240, -165, -99, 35, 19, 75, 130, 125]
+2023-05-09 22:47:20,332 Calculate the slope and intercept of a best fit straight line:
+2023-05-09 22:47:20,332    slope = 1.09
+2023-05-09 22:47:20,333    intercept = -1.39
+2023-05-09 22:47:20,333 Let's use our best fit line to PREDICT a future value.
+2023-05-09 22:47:20,333    At future x = 200,
+2023-05-09 22:47:20,333    we predict the value of y will be 216.
+2023-05-09 22:47:20,333 How'd we do? Does this make sense given the data?
+2023-05-09 22:47:20,333 Remember to close the app. Control c (or d or z maybe) to close it.
+2023-05-09 22:47:20,333 ready_for_chart = True
+2023-05-09 22:58:07,344 Done with the chart.
