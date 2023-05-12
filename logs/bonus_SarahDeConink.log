@@ -1,0 +1,15 @@
+2023-05-11 23:13:49,777 =============================================================
+2023-05-11 23:13:49,777 =============================================================
+2023-05-11 23:13:49,778 Today is 2023-05-11 at 11:13 PM
+2023-05-11 23:13:49,778 This file is running on: posix Darwin 20.6.0
+2023-05-11 23:13:49,778 The Python version is: 3.11.3
+2023-05-11 23:13:49,778 The active conda environment is:  None
+2023-05-11 23:13:49,778 The active pip environment is:    None
+2023-05-11 23:13:49,778 The active environment path is:   /Library/Frameworks/Python.framework/Versions/3.11
+2023-05-11 23:13:49,778 The current working directory is: /Users/sarah/Documents/datafun-01-getting-started
+2023-05-11 23:13:49,778 This source file is in:           /Users/sarah/Documents/datafun-01-getting-started
+2023-05-11 23:13:49,778 =============================================================
+2023-05-11 23:13:49,778 =============================================================
+2023-05-11 23:13:49,782 The mean of the data is 30.26
+2023-05-11 23:13:49,782 The mode of the data is 3
+2023-05-11 23:13:49,782 The median of the data is 13

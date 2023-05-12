@@ -1,16 +1,16 @@
-2023-05-11 22:29:48,099 =============================================================
-2023-05-11 22:29:48,099 =============================================================
-2023-05-11 22:29:48,099 Today is 2023-05-11 at 10:29 PM
-2023-05-11 22:29:48,099 This file is running on: posix Darwin 20.6.0
-2023-05-11 22:29:48,099 The Python version is: 3.11.3
-2023-05-11 22:29:48,099 The active conda environment is:  None
-2023-05-11 22:29:48,099 The active pip environment is:    None
-2023-05-11 22:29:48,100 The active environment path is:   /Library/Frameworks/Python.framework/Versions/3.11
-2023-05-11 22:29:48,100 The current working directory is: /Users/sarah/Documents/datafun-01-getting-started
-2023-05-11 22:29:48,100 This source file is in:           /Users/sarah/Documents/datafun-01-getting-started
-2023-05-11 22:29:48,100 =============================================================
-2023-05-11 22:29:48,100 =============================================================
-2023-05-11 22:29:55,406 This week we sold 1 single scoop cones, 1 double scoop cones, and 1 triple scoop cones, for a total of 3 cones.
-2023-05-11 22:29:55,407 The types of cones sold range from 1 to 1, while the average of all types sold was 1.
-2023-05-11 22:29:55,407 The total number of ice cream scoops served was 6
-2023-05-11 22:29:55,407 Fire one ice cream scooper.
+2023-05-11 22:54:53,671 =============================================================
+2023-05-11 22:54:53,671 =============================================================
+2023-05-11 22:54:53,672 Today is 2023-05-11 at 10:54 PM
+2023-05-11 22:54:53,672 This file is running on: posix Darwin 20.6.0
+2023-05-11 22:54:53,672 The Python version is: 3.11.3
+2023-05-11 22:54:53,672 The active conda environment is:  None
+2023-05-11 22:54:53,672 The active pip environment is:    None
+2023-05-11 22:54:53,672 The active environment path is:   /Library/Frameworks/Python.framework/Versions/3.11
+2023-05-11 22:54:53,673 The current working directory is: /Users/sarah/Documents/datafun-01-getting-started
+2023-05-11 22:54:53,673 This source file is in:           /Users/sarah/Documents/datafun-01-getting-started
+2023-05-11 22:54:53,673 =============================================================
+2023-05-11 22:54:53,673 =============================================================
+2023-05-11 22:55:07,110 This week we sold 10 single scoop cones, 3 double scoop cones, and 34 triple scoop cones, for a total of 47 cones.
+2023-05-11 22:55:07,110 The types of cones sold range from 3 to 34, while the average of all types sold was 16.
+2023-05-11 22:55:07,111 The total number of ice cream scoops served was 118
+2023-05-11 22:55:07,111 Fire one ice cream scooper.
