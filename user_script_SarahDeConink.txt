@@ -1,3 +1,9 @@
+sarah@sarahs-air datafun-01-getting-started % /usr/local/bin/python3 /Users/sarah/Documents/datafun-01-getting-started/user_script_SarahD
+eConink.py
+Weekly Ice Cream Statistics
+How many single scoop ice cream cones were sold this week: 23
+How many double scoop ice cream cones were sold this week: 10
+How many triple scoop ice cream cones were sold this week: 45
 2023-05-11 23:40:42,315 =============================================================
 2023-05-11 23:40:42,316 =============================================================
 2023-05-11 23:40:42,316 Today is 2023-05-11 at 11:40 PM
@@ -14,3 +20,5 @@
 2023-05-11 23:40:51,354 The types of cones sold range from 10 to 45, while the average of all types sold was 26.
 2023-05-11 23:40:51,354 The total number of ice cream scoops served was 178
 2023-05-11 23:40:51,354 Fire one ice cream scooper.
+
+sarah@sarahs-air datafun-01-getting-started % 

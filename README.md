@@ -222,17 +222,17 @@ Markdown skills are valuable.
 
 If you like, change the open boxes [ ] below to checked boxes [x] as you gain new skills.
 
-- [ ] Sign up for GitHub
-- [ ] Fork a repo into your GitHub
-- [ ] Install Git
-- [ ] Configure Git
-- [ ] Install Python 3
-- [ ] Install VS Code 
-- [ ] Clone your new GitHub repository/repo down to your machine
-- [ ] Explore your local repo in VS Code
-- [ ] Execute Python scripts
-- [ ] Edit Python scripts
-- [ ] Commit changes (with a message!) and push/sync back up to GitHub for sharing
+- [x] Sign up for GitHub
+- [x] Fork a repo into your GitHub
+- [x] Install Git
+- [x] Configure Git
+- [x] Install Python 3
+- [x] Install VS Code 
+- [x] Clone your new GitHub repository/repo down to your machine
+- [x] Explore your local repo in VS Code
+- [x] Execute Python scripts
+- [x] Edit Python scripts
+- [x] Commit changes (with a message!) and push/sync back up to GitHub for sharing
 
 Each time you make changes on your machine, commit and push back up to GitHub. 
 When starting it's best to make small changes locally and commit and push often.
